@@ -227,8 +227,6 @@ FEATURES stopped at 44:17
 
 .books {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 
 .book__img {
